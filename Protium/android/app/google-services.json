@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "842653374356",
+    "project_id": "proton-dbf7a",
+    "storage_bucket": "proton-dbf7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842653374356:android:513ce10cd7a319a0b16181",
+        "android_client_info": {
+          "package_name": "com.example.the_social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842653374356-lf740vrdoj2nj3okhbhmnmvsn4e6s8bp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.the_social",
+            "certificate_hash": "d63ec329f49146730c80ebec927998357e86e320"
+          }
+        },
+        {
+          "client_id": "842653374356-6ulcdfkkqq568nje840jmh2ohp076hlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWjLHkcHdLlEuw9UyaoudHsX11nwDebD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842653374356-6ulcdfkkqq568nje840jmh2ohp076hlg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
